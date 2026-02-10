@@ -54,4 +54,7 @@ From: 羰基智能+硅基智能
 - 实验指导文档：https://learningos.github.io/rCore-Tutorial-Guide/
 - 测试用例：https://github.com/LearningOS/rCore-Tutorial-Test/
 
+训练营：
+- 2025年秋冬季开源操作系统训练营：https://opencamp.cn/os2edu/camp/2025fall
+
 注：上述可用资源是清华大学计算机系本科OS课学生学习所用的几乎所有资源（缺历年考试试卷、课后练习、上课视频）
