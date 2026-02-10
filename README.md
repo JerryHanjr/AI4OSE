@@ -3,7 +3,7 @@
 [![Crates.io](https://img.shields.io/crates/v/ai4ose-lab1-2026s.svg)](https://crates.io/crates/ai4ose-lab1-2026s)
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](LICENSE)
 
-AI4OSE Lab1: 一个可发布到 crates.io 的最简单 Rust 应用程序，作为与AI合作进行操作系统内核学习的起点。
+AI4OSE Lab1: 与AI合作进行操作系统内核学习的起点。
 
 执行本项目后，会输出 AI4OSE 实验一说明内容。
 
@@ -55,6 +55,8 @@ cargo install ai4ose-lab1-2026s
 ai4ose-lab1-2026s
 ```
 
+程序将输出 AI4OSE 实验一的完整说明内容。
+
 ### 3. 源代码下载编译安装执行：显示实验内容
 
 **方式一：通过 Git 克隆仓库**
@@ -90,35 +92,11 @@ cd ai4ose-lab1-2026s-*/
 也可以直接在浏览器中访问 [https://crates.io/crates/ai4ose-lab1-2026s](https://crates.io/crates/ai4ose-lab1-2026s) 页面，点击 "Download" 按钮下载源码包。
 
 
-#### 编译
+#### 编译运行
 
 ```bash
 cargo build
-```
-
-编译成功后，可执行文件位于 `target/debug/ai4ose-lab1-2026s`。
-
-如需生成优化后的发布版本：
-
-```bash
-cargo build --release
-```
-
-发布版本的可执行文件位于 `target/release/ai4ose-lab1-2026s`。
-
-#### 运行
-
-在源码目录中运行
-
-```bash
 cargo run
 ```
 
 程序将输出 AI4OSE 实验一的完整说明内容。
-
-也可以直接运行编译好的可执行文件：
-
-```bash
-./target/debug/ai4ose-lab1-2026s
-```
-
