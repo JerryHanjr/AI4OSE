@@ -36,6 +36,7 @@ From: 碳基智能+硅基智能=碳硅智能
 
 ## 附录：可使用的资源：
 - 最新的OS课组件化实验代码（持续更新）：https://github.com/rcore-os/rCore-Tutorial-in-single-workspace/tree/test
+- 测试实验通过的方法
 注：缺少匹配的实验指导文档（持续更新）。
 
 课程：
